@@ -3,7 +3,7 @@
   "photo": "https://github.com/JussaraSilva.png",
   "job": "Desenvolvedora Front-End em formação",
   "location": "Belo Horizonte - MG",
-  "phone": "(31) 99999-9999",
+  "phone": "(31) 99172-5528",
   "email": "jussarasilva2203@gmail.com",
   "skills": {
     "hardSkills": [
@@ -21,11 +21,11 @@
       },
       {
         "name": "Photoshop",
-        "logo": "https://https://raw.githubusercontent.com/JussaraSilva/JussaraSilva-js-developer-portfolio/main/data/imgs/photoshop.png"
+        "logo": "https://raw.githubusercontent.com/JussaraSilva/JussaraSilva-js-developer-portfolio/main/data/imgs/photoshop.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://https://raw.githubusercontent.com/JussaraSilva/JussaraSilva-js-developer-portfolio/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/JussaraSilva/JussaraSilva-js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
