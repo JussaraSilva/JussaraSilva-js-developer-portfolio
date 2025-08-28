@@ -1,31 +1,31 @@
 {
   "name": "Jussara Cristina da Silva",
-  "photo": "https://avatars.githubusercontent.com/u/000000?v=4",
+  "photo": "https://github.com/JussaraSilva.png",
   "job": "Desenvolvedora Front-End em formação",
   "location": "Belo Horizonte - MG",
   "phone": "(31) 99999-9999",
-  "email": "jussaracristina@email.com",
+  "email": "jussarasilva2203@gmail.com",
   "skills": {
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/JussaraSilva/JussaraSilva-js-developer-portfolio/main/data/imgs/html.png"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/JussaraSilva/JussaraSilva-js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/javascript.png"
+        "logo": "https://raw.githubusercontent.com/JussaraSilva/JussaraSilva-js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "WordPress",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/wordpress.png"
+        "name": "Photoshop",
+        "logo": "https://https://raw.githubusercontent.com/JussaraSilva/JussaraSilva-js-developer-portfolio/main/data/imgs/photoshop.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+        "logo": "https://https://raw.githubusercontent.com/JussaraSilva/JussaraSilva-js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
@@ -43,29 +43,29 @@
   "portfolio": [
     {
       "name": "Leitor de PDF customizado (modo claro/escuro)",
-      "url": "https://github.com/seuusuario/pdf-reader",
+      "url": "https://github.com/JussaraSilva/SitePDFReader",
       "github": true
     },
     {
       "name": "VueCode - Editor de HTML/CSS offline",
-      "url": "https://github.com/seuusuario/vuecode",
+      "url": "https://github.com/JussaraSilva/VueCode",
       "github": true
     },
     {
       "name": "Plataforma de Cursos Online (simulação)",
-      "url": "https://github.com/seuusuario/online-courses-platform",
+      "url": "https://github.com/JussaraSilva/EAD--Project",
       "github": true
     },
     {
-      "name": "Loja Virtual Offline (mini e-commerce com localStorage)",
-      "url": "https://github.com/seuusuario/offline-store",
+      "name": "Loja Virtual Offline (mini e-commerce com localStorage) em Desenvolvimento",
+      "url": "https://github.com/JussaraSilva/MomentumStore",
       "github": true
     }
   ],
   "professionalExperience": [
     {
       "name": "Monitora de Cursos Livres / Assprom",
-      "period": "2023 - até o momento",
+      "period": "2018 - até o momento",
       "description": "Atuo no laboratório de informática, auxiliando jovens aprendizes em cursos e no desenvolvimento de habilidades digitais e profissionais."
     },
     {
